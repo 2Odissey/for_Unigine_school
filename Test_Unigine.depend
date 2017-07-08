@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1498348237 source:/home/odissey/Projects/Test_Unigine/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<iterator>
+	<algorithm>
+	<limits>
+	<cstring>
+	<cstdlib>
+	<cctype>
+
